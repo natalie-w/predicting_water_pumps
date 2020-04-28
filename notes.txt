@@ -1,0 +1,5 @@
+To Try Next Time:
+- Different classifiers (https://www.greycampus.com/opencampus/machine-learning/different-types-of-classifiers)
+- Data wrangling based on feature importance
+- Location grouping with lat longs
+- EDA vizs
